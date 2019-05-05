@@ -1,5 +1,5 @@
 {
-  "name": "git-diff",
+  "name": "git-diff-plus",
   "version": "1.3.9",
   "main": "./lib/main",
   "description": "Marks lines in the editor gutter that have been added, edited, or deleted since the last commit.",
