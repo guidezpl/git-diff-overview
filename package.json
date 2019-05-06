@@ -1,9 +1,9 @@
 {
-  "name": "git-diff-plus",
-  "version": "1.3.9",
+  "name": "git-diff-overview",
+  "version": "0.0.0",
   "main": "./lib/main",
-  "description": "Marks lines in the editor gutter and scrollbar that have been added, edited, or deleted since the last commit.",
-  "repository": "https://github.com/atom/git-diff-plus",
+  "description": "Marks lines in the editor gutter that have been added, edited, or deleted since the last commit. Also show overview in the scrollbar.",
+  "repository": "https://github.com/guidezpl/git-diff-overview",
   "license": "MIT",
   "engines": {
     "atom": "*"
