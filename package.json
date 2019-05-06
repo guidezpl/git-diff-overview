@@ -1,6 +1,6 @@
 {
   "name": "git-diff-overview",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "./lib/main",
   "description": "Marks lines in the editor gutter that have been added, edited, or deleted since the last commit. Also show overview in the scrollbar.",
   "repository": "https://github.com/guidezpl/git-diff-overview",
