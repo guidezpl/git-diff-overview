@@ -2,7 +2,7 @@
   "name": "git-diff-overview",
   "version": "0.1.0",
   "main": "./lib/main",
-  "description": "Marks lines in the editor gutter that have been added, edited, or deleted since the last commit. Also show overview in the scrollbar.",
+  "description": "Marks lines in the editor gutter that have been added, edited, or deleted since the last commit. Also show an overview of changes in the scrollbar.",
   "repository": "https://github.com/guidezpl/git-diff-overview",
   "license": "MIT",
   "engines": {
@@ -11,10 +11,10 @@
   "dependencies": {
     "atom-select-list": "^0.7.0",
     "fs-plus": "^3.0.0",
-    "temp": "~0.8.1"
+    "temp": "~0.9.0"
   },
   "devDependencies": {
-    "standard": "^11.0.0"
+    "standard": "^12.0.1"
   },
   "standard": {
     "ignore": [
