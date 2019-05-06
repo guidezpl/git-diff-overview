@@ -9,3 +9,5 @@ Also show an overview of changes in the scrollbar.
   * <kbd>alt-g down</kbd> to move the cursor to the next diff in the editor
 
 ![](https://raw.githubusercontent.com/guidezpl/git-diff-overview/master/screenshot.png)
+
+Fork of [git-diff](https://github.com/atom/atom/tree/masterpackages/git-diff) with overview functionality adapted from [scroll-marker](https://github.com/surdu/scroll-marker) by @surdu
