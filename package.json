@@ -9,12 +9,12 @@
     "atom": "*"
   },
   "dependencies": {
-    "atom-select-list": "^0.7.0",
-    "fs-plus": "^3.0.0",
-    "temp": "~0.9.0"
+    "atom-select-list": "^0.7.2",
+    "fs-plus": "^3.1.1",
+    "temp": "~0.9.1"
   },
   "devDependencies": {
-    "standard": "^12.0.1"
+    "standard": "^14.3.3"
   },
   "standard": {
     "ignore": [
