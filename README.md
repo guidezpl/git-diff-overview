@@ -1,5 +1,5 @@
 # Git Diff Overview package
-[![Dependency Status](https://david-dm.org/atom/git-diff-overview.svg)](https://david-dm.org/atom/git-diff-overview)
+[![Dependency Status](https://david-dm.org/guidezpl/git-diff-overview.svg)](https://david-dm.org/guidezpl/git-diff-overview)
 
 Marks lines in the editor gutter that have been added, edited, or deleted since the last commit.
 
